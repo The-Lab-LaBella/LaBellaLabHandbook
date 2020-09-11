@@ -11,7 +11,7 @@ This document was last updated on September 11th 2020.
 
 Above all else, everyone in the lab will treat each other with respect and dignity. Everyone will pursue science with integrity in an ethical manner. We can all work towards a positive, thought-provoking, equitable and rewarding lab together by prioritizing the items below.  
 
-**2.1.	 Big Picture
+### 2.1.	 Big Picture
 
 	**Do science you are proud to share with your chosen family and friends.** If you don’t feel that way, we can work together to find a solution. 
 
@@ -38,7 +38,7 @@ Above all else, everyone in the lab will treat each other with respect and digni
 	**Experiments fail.** That’s life. I consider digital work to be experiments as well. Installing a new software? Did it ultimate not work. That’s just a failed experiment and not a waste of time. 
 
 
-**2.2.	Small Picture
+### 2.2.	Small Picture
 
 	**If you are sick, stay home!** We share lab spaces with each other and with other groups. If you are not feeling well you should stay home and let me know you will not be in lab. 
 
@@ -52,7 +52,7 @@ Above all else, everyone in the lab will treat each other with respect and digni
 
 	**What you wear is up to you.** You are free to express yourself and wear what you wish in lab. There are contexts where I would advise a more professional wardrobe and I am open to discussing this with you. 
 
-**2.3.	PI
+### 2.3.	PI
 
 	Provide a clear vision of the overall goals of the lab.
 
@@ -66,7 +66,7 @@ Above all else, everyone in the lab will treat each other with respect and digni
 
 	Support your wellbeing as a whole person. 
 
-**2.4.	Postdocs
+### 2.4.	Postdocs
 
 	Develop an independent line of research.
 
@@ -80,7 +80,7 @@ Above all else, everyone in the lab will treat each other with respect and digni
 
 	Apply for jobs! We will work together to create a timeline for your job applications. 
 
-**2.5.	Graduate Students
+### 2.5.	Graduate Students
 
 	You are in the weird position of being an employee, student, trainee, and researcher all at once. This is not a time to “pay your dues” or sacrifice everything for science. You are here to gain the skills you need to pursue independent research. 
 
@@ -97,7 +97,7 @@ Above all else, everyone in the lab will treat each other with respect and digni
 
 	Balance research with your other responsibilities, such as TAing. There will be days/weeks where TAing takes up the majority of your time. Do not fall behind on your research! Your research is a critical component of your career development.
 
-2.6.	Undergraduate Students
+### 2.6.	Undergraduate Students
 
 	You are member of the lab. We will work together to find a research project with a graduate student or postdoc. 
 
@@ -124,13 +124,13 @@ Good communication means not only responding to and sending emails. You should t
 
 Our lab and the University must be free of harassment and discrimination. Creating this environment requires you to be proactive, support others in the lab, and call out issues when you observe them. 
 
-**4.1.	University Policies
+### 4.1.	University Policies
 
 	Links to university policies
 
 	**I am a mandatory reporter.** You may be a mandatory reporter, especially if you have been a TA (please make sure you know this). This means that if I hear about an incident of sexual harassment, I am legally obligated to report it to the Title IX office. If you are unsure about what to do, I can point you towards resources where you can discuss options prior to reporting an incident. 
 
-**4.2.	Lab Commitments
+### 4.2.	Lab Commitments
 
 	All members of the lab are committed to ensuring a safe, welcoming, and accepting environment.
 
@@ -144,7 +144,7 @@ Our lab and the University must be free of harassment and discrimination. Creati
 
 	**If you are being harassed, see someone else being harassed, or have any other concerns you can come to me, speak with the department chair or access these university resources here.
 
-**4.3.	Inclusive lab environment
+### 4.3.	Inclusive lab environment
 
 	We will do our best to recognize and combat our implicit biases. 
 
@@ -160,7 +160,7 @@ Our lab and the University must be free of harassment and discrimination. Creati
 
 ## 5.	Scientific Integrity 
 
-**5.1.	 Research (Mis)conduct
+### 5.1.	 Research (Mis)conduct
 
 	Our lab and the university have zero tolerance for fabrication, falsification, misrepresentation or plagiarism of data or text.
 
@@ -174,11 +174,11 @@ Our lab and the University must be free of harassment and discrimination. Creati
 
 	Research misconduct has real life consequences for both those conducting the research and those relying on false information. In the most extreme cases this can result in loss of life. Even less extreme cases perpetuate mistrust in the sciences. 
 
-**5.2.	 Reproducible Research. 
+### 5.2.	 Reproducible Research. 
 
 	At its core, reproducible research means that any other researcher should be able to replicate your experiment or analysis and come up with the same results.
 	To ensure reproducibility you should document your process. 
 
 	Digital work needs to be documented. Just as you would document an experiment in a lab notebook, keep track of your commands, software and pipeline. 
 
-##6.	General Policies - TBD
+## 6.	General Policies - TBD
