@@ -1,5 +1,5 @@
 # LaBella Lab Manual 
-**1.	Introduction**
+## 1.	Introduction**
 
 Welcome to the brand-new **LaBella Lab**! This manual is a living document that is designed to ensure an equitable and productive lab environment. I am always open to suggestions and I will be happy to discuss any aspect of this document with you directly. You are required to read this document, in its entirety, prior to joining the lab. This ensures that you know what to expect from me and know what is expected from you. 
 
