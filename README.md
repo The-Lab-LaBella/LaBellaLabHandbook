@@ -1,13 +1,13 @@
-#LaBella Lab Manual 
+# LaBella Lab Manual 
 **1.	Introduction**
 
 Welcome to the brand-new **LaBella Lab**! This manual is a living document that is designed to ensure an equitable and productive lab environment. I am always open to suggestions and I will be happy to discuss any aspect of this document with you directly. You are required to read this document, in its entirety, prior to joining the lab. This ensures that you know what to expect from me and know what is expected from you. 
 
 This document has been modeled after the following exceptional examples and will be updated with university resources. Other lab manuals: https://github.com/memobc/memolab-manual http://jpeelle.net/peellelab_manual.pdf https://github.com/alylab/labmanual 
 
-This document was last updated on September 7th 2020.
+This document was last updated on September 11th 2020.
 
-##2.	Expectations
+## 2.	Expectations
 
 Above all else, everyone in the lab will treat each other with respect and dignity. Everyone will pursue science with integrity in an ethical manner. We can all work towards a positive, thought-provoking, equitable and rewarding lab together by prioritizing the items below.  
 
@@ -103,7 +103,7 @@ Above all else, everyone in the lab will treat each other with respect and digni
 
 	Work with your mentor to establish a schedule and meet regularly 
 
-##3.	Communication
+## 3.	Communication
 
 Good communication means not only responding to and sending emails. You should talk to myself and the other lab members about your expectations. An email saying “I can’t get to this right now even though I said I would” is better than leaving people hanging. 
 
@@ -120,7 +120,7 @@ Good communication means not only responding to and sending emails. You should t
 	**Check the lab calendar.** My life is ruled by the calendar. Check the lab calendar and my calendar to request meetings and stay up to date on lab meetings
 
 
-##4.	Code of Conduct
+## 4.	Code of Conduct
 
 Our lab and the University must be free of harassment and discrimination. Creating this environment requires you to be proactive, support others in the lab, and call out issues when you observe them. 
 
@@ -158,7 +158,7 @@ Our lab and the University must be free of harassment and discrimination. Creati
 
 	If you are struggling financially, with food insecurity, housing or there are other obstacles that are hindering your success in the lab please come to me so I can connect you with resources that will support you. 
 
-##5.	Scientific Integrity 
+## 5.	Scientific Integrity 
 
 **5.1.	 Research (Mis)conduct
 
