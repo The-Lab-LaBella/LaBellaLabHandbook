@@ -45,19 +45,19 @@ Above all else, everyone in the lab will treat each other with respect and digni
 
 	**If you are sick, stay home!** We share lab spaces with each other and with other groups. If you are not feeling well you should stay home and let me know you will not be in lab. 
 
-	**Vacations and Travel** As an enrolled student the handbooke states that "Students are expected to limit personal travel to academic breaks and to be in
-attendance from the first day of each semester". Please discuss with me any personal travel or time off that occurs outside of University holidays at least two weeks in advance. 
+	**Vacations and Travel** As an enrolled student the handbook states that "Students are expected to limit personal travel to academic breaks and to be in
+attendance from the first day of each semester". Please discuss any personal travel or time off that occurs outside of University holidays with me at least two weeks in advance. 
 
 	**Clean up after yourself.** You are expected to keep a neat and clean workspace. You are also expected to dispose of food and beverages in a timely manner. 
 
-	**Use the calendar.** Before asking when or where an event is, please check the lab calendar (link here)
+	**Use the calendar.** Before asking when or where an event is, please check the lab calendar (https://calendar.google.com/calendar/u/0?cid=Y19qMWs1MGZsdTFtdW5zdGJhbXFyZGE2dnAyOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 	**No strong perfume, colognes, moisturizer etc.** Be respectful that your coworkers may have different tastes or sensitivity when it comes to smells. 
 
 	**What you wear is up to you.** You are free to express yourself and wear what you wish in lab. There are contexts where I would advise a more professional wardrobe and I am open to discussing this with you. 
 
 
-### 2.3.	PI
+### 2.3.	PI - What you can expect from me
 
 	Provide a clear vision of the overall goals of the lab.
 
@@ -65,18 +65,18 @@ attendance from the first day of each semester". Please discuss with me any pers
 
 	Develop independent research projects for lab members that align with their goals and interests. 
 
-	Meet regularly with lab members to discuss goals, projects, progress and wellbeing. Regularly is at least twice a year and can be as often as once a month if needed.
+	Meet regularly with lab members to discuss goals, projects, progress and wellbeing. Regularly is at least twice a year and can be as often as once a week if needed.
 
 	Support your career development by facilitating collaborations/introductions, conference travel, providing the necessary resources and writing letters of recommendation. 
 
 	Support your wellbeing as a whole person. 
 
 
-### 2.4.	Postdocs
+### 2.4.	Postdocs - What I expect from you
 
-	Develop an independent line of research.
+	Develop an independent line of research that both supports the labs research goals and can be used to develop an independent research group in the future (if that's what you want.)
 
-	Mentor students, undergraduate and graduate. This is an opportunity for you to develop mentorship skills critical for career development.
+	Mentor students, both undergraduate and graduate. This is an opportunity for you to develop mentorship skills critical for career development.
 
 	Present, publish, and promote your work to the best of your ability. 
 
@@ -87,9 +87,11 @@ attendance from the first day of each semester". Please discuss with me any pers
 	Apply for jobs! We will work together to create a timeline for your job applications. 
 
 
-### 2.5.	Graduate Students
+### 2.5.	PhD Graduate Students - What I expect from you
 
-	You are in the weird position of being an employee, student, trainee, and researcher all at once. This is not a time to “pay your dues” or sacrifice everything for science. You are here to gain the skills you need to pursue independent research. 
+	You are in the weird position of being an employee, student, trainee, and researcher all at once. This is not a time to “pay your dues” or sacrifice everything for science. You are here to gain the skills you need to pursue independent research and to advance your chosen field of science.
+
+	Take your studies and coursework seriously. You must maintain a 3.0 program GPA to advance to your qualifying exam. This is also an opportunity to learn new skills from the talented faculty in the department.
 
 	Develop an independent research project with three research projects/papers/chapters. Keep your thesis chapters in mind at all times. Science is full of tangents and fruitful side projects but be mindful that a complete thesis is your ticket to the next phase of your career. 
 
@@ -100,12 +102,20 @@ attendance from the first day of each semester". Please discuss with me any pers
 	Be aware of deadlines from the department. Do you need to have a committee meeting? Are there forms to fill out? 
 
 	Mentor and collaborate with other (newer) graduate students and undergraduates. This will get you important mentorship experience and can provide data for your work. 
+
 	Present, publish, and promote your work to the best of your ability. 
 
 	Balance research with your other responsibilities, such as TAing. There will be days/weeks where TAing takes up the majority of your time. Do not fall behind on your research! Your research is a critical component of your career development.
 
+The BIG graduate student handbook is currently located here: https://cci.charlotte.edu/sites/cci.charlotte.edu/files/media/BCBPhDHandbook-UPDATED%20July%202021.pdf 
 
-### 2.6.	Undergraduate Students
+
+### 2.6.	Masters Students
+
+	TBD
+
+
+### 2.7.	Undergraduate Students
 
 	You are member of the lab. We will work together to find a research project with a graduate student or postdoc. 
 
@@ -122,23 +132,23 @@ Good communication means not only responding to and sending emails. You should t
 
 	**Requests for one-on-one meetings with the PI will be scheduled**, in person or via zoom, within two weeks of a request. 
 
-	**Slack communication is important.** Slack is an important way to communicate with members of the lab. Important items, however, like requests for recommendations should always be communicated via email. 
+	**Slack communication is important.** Slack is a critical way to communicate with members of the lab. Important items, however, like requests for recommendations should always be communicated via email. 
 
-	**Open door = come on in.** If you have a question or idea that will take less than approximately 5 minutes please come on in if my door is open. If you think the discussion will take longer set up an appointment 
+	**Open door = come on in.** If you have a question or idea that will take less than approximately 30 minutes please come on in if my door is open. If you think the discussion will take longer set up an appointment 
 
 	**Check the lab calendar.** My life is ruled by the calendar. Check the lab calendar and my calendar to request meetings and stay up to date on lab meetings
 
 
-## 4.	Code of Conduct
+## 4.	Lab Code of Conduct
 
 Our lab and the University must be free of harassment and discrimination. Creating this environment requires you to be proactive, support others in the lab, and call out issues when you observe them. 
 
 
 ### 4.1.	University Policies
 
-	Links to university policies
+	The full UNCC Policies and Standards can be found here: https://legal.charlotte.edu/policies
 
-	**I am a mandatory reporter.** You may be a mandatory reporter, especially if you have been a TA (please make sure you know this). This means that if I hear about an incident of sexual harassment, I am legally obligated to report it to the Title IX office. If you are unsure about what to do, I can point you towards resources where you can discuss options prior to reporting an incident. 
+	**I am a “Responsible Employee”.** You may be a “Responsible Employee”, especially if you have been a TA (please make sure you know this). This means that if I hear about an incident of sexual harassment, I am legally obligated to report it to the Title IX office. If you are unsure about what to do, I can point you towards resources where you can discuss options prior to reporting an incident. There are additional resources available at the Title IX Office https://titleix.charlotte.edu/
 
 
 ### 4.2.	Lab Commitments
@@ -153,10 +163,10 @@ Our lab and the University must be free of harassment and discrimination. Creati
 
 	If you are approached about inappropriate or harassing behavior you must stop these actions immediately. If your behavior continues you will be asked to leave the lab.
 
-	**If you are being harassed, see someone else being harassed, or have any other concerns you can come to me, speak with the department chair or access these university resources here.
+	**If you are being harassed, see someone else being harassed, or have any other concerns you can come to me, speak with the department chair or access these university resources here: https://dso.charlotte.edu/advocacy-support/report-incident 
 
 
-### 4.3.	Inclusive lab environment
+### 4.3.	Inclusive Lab Environment
 
 	We will do our best to recognize and combat our implicit biases. 
 
@@ -174,15 +184,15 @@ Our lab and the University must be free of harassment and discrimination. Creati
 ## 5.	Scientific Integrity 
 
 
-### 5.1.	 Research (Mis)conduct
+### 5.1.	 Research (Mis)Conduct
 
 	Our lab and the university have zero tolerance for fabrication, falsification, misrepresentation or plagiarism of data or text.
 
-	The University policies are outlined here:
+	The University policies are outlined here: https://research.charlotte.edu/departments/office-research-protections-and-integrity-orpi
 
-	Research misconduct often occurs when there is pressure from deadlines, a desire for positive results, and need to outcompete peers. There are NO excuses for research misconduct. 
+	Research misconduct often occurs when there is pressure from deadlines, a desire for positive results, and need to outcompete peers. Research misconduct can also occur from laziness or poor data management. There are NO excuses for research misconduct. 
 
-	**If you are being pressured by ANYONE to conduct unethical research** report that to me, the department or these University resources:  
+	**If you are being pressured by ANYONE to conduct unethical research** report that to me, the department or these University resources:  https://research.charlotte.edu/departments/office-research-protections-and-integrity-orpi/research-integrity
 
 	Responsible research conduct comes from an understanding that we have a moral and ethical obligation to put forth accurate and true information to the best of our ability. 
 
