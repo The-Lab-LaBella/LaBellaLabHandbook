@@ -5,7 +5,7 @@ Welcome to the brand-new **LaBella Lab**! This manual is a living document that 
 
 This document has been modeled after the following exceptional examples and will be updated with university resources. Other lab manuals: https://github.com/memobc/memolab-manual http://jpeelle.net/peellelab_manual.pdf https://github.com/alylab/labmanual 
 
-This document was last updated on September 11th 2020.
+This document was last updated on May 19th 2022.
 
 
 ## 2.	Expectations
@@ -45,7 +45,8 @@ Above all else, everyone in the lab will treat each other with respect and digni
 
 	**If you are sick, stay home!** We share lab spaces with each other and with other groups. If you are not feeling well you should stay home and let me know you will not be in lab. 
 
-	**Take your vacation.** The university has clear guidelines on vacation time for staff and graduate students (link here). Please give me at least 2 weeks’ notice of planned vacation time. 
+	**Vacations and Travel** As an enrolled student the handbooke states that "Students are expected to limit personal travel to academic breaks and to be in
+attendance from the first day of each semester". Please discuss with me any personal travel or time off that occurs outside of University holidays at least two weeks in advance. 
 
 	**Clean up after yourself.** You are expected to keep a neat and clean workspace. You are also expected to dispose of food and beverages in a timely manner. 
 
