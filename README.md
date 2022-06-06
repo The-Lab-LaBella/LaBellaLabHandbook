@@ -207,4 +207,6 @@ Our lab and the University must be free of harassment and discrimination. Creati
 	Digital work needs to be documented. Just as you would document an experiment in a lab notebook, keep track of your commands, software and pipeline. 
 
 
-## 6.	General Policies - TBD
+## 6.	Lab Notebooks
+
+ Lab Notebooks are an essential part of science, even for computational scientists! As a lab member you are required to maintain a laboratory notebook for both wet lab and computational work. 	
