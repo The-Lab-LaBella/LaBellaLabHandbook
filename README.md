@@ -101,7 +101,7 @@ attendance from the first day of each semester". Please discuss any personal tra
 
 	Be aware of deadlines from the department. Do you need to have a committee meeting? Are there forms to fill out? 
 
-	Mentor and collaborate with other (newer) graduate students and undergraduates. This will get you important mentorship experience and can provide data for your work. 
+	Mentor and collaborate with other (newer) masters, graduate and undergraduates students . This will get you important mentorship experience and can provide data for your work. 
 
 	Present, publish, and promote your work to the best of your ability. 
 
@@ -112,8 +112,11 @@ The BIG graduate student handbook is currently located here: https://cci.charlot
 
 ### 2.6.	Masters Students
 
-	TBD
+	You are in the weird position of being an employee, student, trainee, and researcher all at once. This is not a time to “pay your dues” or sacrifice everything for science. You are here to gain the skills you need to pursue the next step in your scientific career. 
 
+	We will work together to develop a project that you can work on. This may include working with a graduate student or postdoc depending on the ongoing projects within the lab 
+
+	Present, publish, and promote your work to the best of your ability. 
 
 ### 2.7.	Undergraduate Students
 
