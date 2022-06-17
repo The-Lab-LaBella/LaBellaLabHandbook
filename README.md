@@ -213,3 +213,10 @@ Our lab and the University must be free of harassment and discrimination. Creati
 ## 6.	Lab Notebooks
 
  Lab Notebooks are an essential part of science, even for computational scientists! As a lab member you are required to maintain a laboratory notebook for both wet lab and computational work. 	
+
+ Computataional lab notebooks are new to me - so we will all work together to find a method that works for you and for the lab. 
+
+## 7. Data Management Expectations
+
+_coming soon_
+
