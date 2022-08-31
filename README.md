@@ -220,17 +220,17 @@ Our lab and the University must be free of harassment and discrimination. Creati
 
 _coming soon_
 
-##8. The Hidden Academic Curriculum
+## 8. The Hidden Academic Curriculum
 
 There are many aspects of academia that are typically learned through experience and not typically written down or taught. Below I've listed some topics that belong to this hidden curriculum. They will include some personal advice from me on these topics. Additionally, if you have questions about these topics _do not_ hesistate to ask me or any of your other mentors. 
 
-###Networking 
+### Networking 
 
 
-###Starting Collaborations
+### Starting Collaborations
 
 
-###Finding Funding
+### Finding Funding
 
-###Becoming a paper reviewer and reviewing papers
+### Becoming a paper reviewer and reviewing papers
 
