@@ -209,6 +209,29 @@ Our lab and the University must be free of harassment and discrimination. Creati
 
 	Digital work needs to be documented. Just as you would document an experiment in a lab notebook, keep track of your commands, software and pipeline. 
 
+### 5.3	 Responsible conduct in AI and LLMs
+
+This policy was adapted from Dr. Morgan Carter's lab handbook (UNC Charlotte).
+
+Part of the work you are doing within our lab is learning how to think critically, write in your voice, develop your communication skills, and logic through problem solving. While large language models (LLMs) like ChatGPT, Bard, etc.  can help with this, they are easily used to replace “thinking” in a way that is negative to your professional development at this stage. Yet, LLMs are increasingly integrated into many technologies and can be very convenient tools for a variety of applications that are relevant to your future careers. Taking all of this together, we recognize the usefulness of these tools as well as their limitations and contextualize that with the environmental impact of increased computing power, equitability and access issues, and general ethical questions around their use (training data sets, intellectual property, etc.).
+
+Within your work for the LaBella Lab, LLMs are acceptable to use for 
+	Coding, eg. “write a basic script to do X in R”, “what is the command to do X in bash,” etc.
+	Troubleshooting, eg "Identify errors in the following script"
+	Non-scientific questions, eg "What is the hex code for light red"
+
+
+However, LLMs **should not be used** to 
+	Drafting abstracts, manuscripts, or other technical writing products without consulting Dr. LaBella. 
+	Scientific background or literature reviews. These models do not provide citations and can give highly erroneous scientific summaries.
+	Designing experiments 
+	Peer review
+
+Cases where LLMs _might_ be appropriate depending on the context
+	Unit conversions. But I _highly_ recommend checking their work
+	Grammar & language. Programs like Grammarly can check for grammar errors, but they also generate suggested text. There have been some instances of Grammarly being detected as AI-generated text. I encourage you to check journal policies on the use of Grammarly and also do not accept suggestions blindly
+
+If you are ever in doubt about whether you are using an LLM in a way that is appropriate for your work here, please discuss with Dr. LaBella.
 
 ## 6.	Lab Notebooks
 
