@@ -212,6 +212,9 @@ Our lab and the University must be free of harassment and discrimination. Creati
 
 ### 5.3	 Responsible conduct in AI and LLMs
 
+![image](https://github.com/user-attachments/assets/e2b3f235-63c3-4c4f-bb49-04b963a8df6a)
+
+
 This policy was adapted from Dr. Morgan Carter's lab handbook (UNC Charlotte).
 
 Part of the work you are doing within our lab is learning how to think critically, write in your voice, develop your communication skills, and logic through problem solving. While large language models (LLMs) like ChatGPT, Bard, etc.  can help with this, they are easily used to replace “thinking” in a way that is negative to your professional development at this stage. Yet, LLMs are increasingly integrated into many technologies and can be very convenient tools for a variety of applications that are relevant to your future careers. Taking all of this together, we recognize the usefulness of these tools as well as their limitations and contextualize that with the environmental impact of increased computing power, equitability and access issues, and general ethical questions around their use (training data sets, intellectual property, etc.).
