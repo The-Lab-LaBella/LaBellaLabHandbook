@@ -95,13 +95,13 @@ attendance from the first day of each semester". Please discuss any personal tra
 
 	Develop an independent research project with three research projects/papers/chapters. Keep your thesis chapters in mind at all times. Science is full of tangents and fruitful side projects but be mindful that a complete thesis is your ticket to the next phase of your career. 
 
-	Explore your career options. Be open minded and take the time to examine your priorities and how they line up with various career options. 
+	Explore your career options. Be open-minded and take the time to examine your priorities and how they line up with various career options. 
 
 	Apply for funding where appropriate. Writing grants and receiving feedback is a valuable experience even if you don’t receive full funding. 
 
 	Be aware of deadlines from the department. Do you need to have a committee meeting? Are there forms to fill out? 
 
-	Mentor and collaborate with other (newer) masters, graduate and undergraduates students . This will get you important mentorship experience and can provide data for your work. 
+	Mentor and collaborate with other (newer) masters, graduate and undergraduates students. This will get you important mentorship experience and can provide data for your work. 
 
 	Present, publish, and promote your work to the best of your ability. 
 
@@ -120,7 +120,7 @@ The BIG graduate student handbook is currently located here: https://cci.charlot
 
 ### 2.7.	Undergraduate Students
 
-	You are member of the lab. We will work together to find a research project with a graduate student or postdoc. 
+	You are a member of the lab. We will work together to find a research project with a graduate student or postdoc. 
 
 	Work with your mentor to establish a schedule and meet regularly 
 
@@ -129,7 +129,7 @@ The BIG graduate student handbook is currently located here: https://cci.charlot
 
 Good communication means not only responding to and sending emails. You should talk to myself and the other lab members about your expectations. An email saying “I can’t get to this right now even though I said I would” is better than leaving people hanging. 
 
-	**All “official” communications should be professional.** I’m happy to look over emails to important collaborators or members of our community. Also make sure your emails and communications within the lab are appropriate for work. The university has the ability to read your emails. 
+	**All “official” communications should be professional.** I’m happy to look over emails to important collaborators or members of our community. Also, make sure your emails and communications within the lab are appropriate for work. The university has the ability to read your emails. 
 
 	**Respond to your emails in a timely manner.** Everyone is expected to respond to emails within two “business days” unless you are traveling or on vacation. 
 
@@ -160,13 +160,13 @@ Our lab and the University must be free of harassment and discrimination. Creati
 
 	There is no space for verbal or physical harassment or discrimination on the basis of gender, gender identity or expression, sexual orientation, disability, physical appearance, body size, race, background, religion or membership in any other group. 
 
-	We will not tolerate actions such as staking, intimidation, threats, stalking, unwanted photograph/video recordings, sustained interruption, inappropriate physical contact, or unwelcome sexual attention or touching. 
+	We will not tolerate actions such as stalking, intimidation, threats, unwanted photograph/video recordings, sustained interruption, inappropriate physical contact, or unwelcome sexual attention or touching. 
 
 	We will respect the chosen pronouns of all members of the community. 
 
-	If you are approached about inappropriate or harassing behavior you must stop these actions immediately. If your behavior continues you will be asked to leave the lab.
+	If you are approached about inappropriate or harassing behavior, you must stop these actions immediately. If your behavior continue,s you will be asked to leave the lab.
 
-	**If you are being harassed, see someone else being harassed, or have any other concerns you can come to me, speak with the department chair or access these university resources here: https://dso.charlotte.edu/advocacy-support/report-incident 
+	**If you are being harassed, see someone else being harassed, or have any other concerns you can come to me, speak with the department chair, or access these university resources here: https://dso.charlotte.edu/advocacy-support/report-incident 
 
 
 ### 4.3.	Inclusive Lab Environment
@@ -199,14 +199,14 @@ Our lab and the University must be free of harassment and discrimination. Creati
 
 	Responsible research conduct comes from an understanding that we have a moral and ethical obligation to put forth accurate and true information to the best of our ability. 
 
-	Research misconduct has real life consequences for both those conducting the research and those relying on false information. In the most extreme cases this can result in loss of life. Even less extreme cases perpetuate mistrust in the sciences. 
+	Research misconduct has real-life consequences for both those conducting the research and those relying on false information. In the most extreme cases, this can result in loss of life. Even less extreme cases perpetuate mistrust in the sciences. 
 
 
 ### 5.2.	 Reproducible Research. 
 
 	At its core, reproducible research means that any other researcher should be able to replicate your experiment or analysis and come up with the same results.
 
-	To ensure reproducibility you should document your process. 
+	To ensure reproducibility, you should document your process. 
 
 	Digital work needs to be documented. Just as you would document an experiment in a lab notebook, keep track of your commands, software and pipeline. 
 
@@ -225,7 +225,7 @@ Within your work for the LaBella Lab, LLMs are acceptable to use for
 
 	Troubleshooting, eg "Identify errors in the following script"
 
-	Non-scientific questions, eg "What is the hex code for light red"
+	Non-scientific questions, eg "What is the hex code for light red?"
 
 
 However, LLMs **should not be used** to 
@@ -250,11 +250,18 @@ If you are ever in doubt about whether you are using an LLM in a way that is app
 
  Lab Notebooks are an essential part of science, even for computational scientists! As a lab member you are required to maintain a laboratory notebook for both wet lab and computational work. 	
 
- Computataional lab notebooks are new to me - so we will all work together to find a method that works for you and for the lab. 
+ Computational lab notebooks are new to me, so we will all work together to find a method that works for you and for the lab. 
+
+
+### 7. Conferences 101 
+
+Scientific conferences are incredible opportunities to network, share your results, and get feedback from peers. 
+
+Graduate students are typically supported and encouraged to attend one scientific meeting each year. Attendance at additional conferences for graduate students or undergraduate students will be supported if funding is available 
+
+_Still under construction_
 
 ## 7. Data Management Expectations
-
-_coming soon_
 
 ## 8. The Hidden Academic Curriculum
 
