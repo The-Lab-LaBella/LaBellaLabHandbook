@@ -5,8 +5,10 @@ Welcome to the brand-new **LaBella Lab**! This manual is a living document that 
 
 This document has been modeled after the following exceptional examples and will be updated with university resources. Other lab manuals: https://github.com/memobc/memolab-manual http://jpeelle.net/peellelab_manual.pdf https://github.com/alylab/labmanual 
 
-This document was last updated on May 19th 2022.
+This document was last updated on December 10th 2025
 
+&nbsp;
+&nbsp;
 
 ## 2.	Expectations
 
@@ -124,6 +126,8 @@ The BIG graduate student handbook is currently located here: https://cci.charlot
 
 - Work with your mentor to establish a schedule and meet regularly 
 
+&nbsp;
+&nbsp;
 
 ## 3.	Communication
 
@@ -141,6 +145,8 @@ Good communication means not only responding to and sending emails. You should t
 
 - **Check the lab calendar.** My life is ruled by the calendar. Check the lab calendar and my calendar to request meetings and stay up to date on lab meetings
 
+&nbsp;
+&nbsp;
 
 ## 4.	Lab Code of Conduct
 
@@ -191,9 +197,10 @@ Our lab and the University must be free of harassment and discrimination. Creati
 
 - If you are struggling financially, with food insecurity, housing or there are other obstacles that are hindering your success in the lab please come to me so I can connect you with resources that will support you. 
 
+&nbsp;
+&nbsp;
 
 ## 5.	Scientific Integrity 
-
 
 ### 5.1.	 Research (Mis)Conduct
 
@@ -254,6 +261,9 @@ Cases where LLMs _might_ be appropriate, depending on the context
 
 If you are ever in doubt about whether you are using an LLM in a way that is appropriate for your work here, please discuss with Dr. LaBella.
 
+&nbsp;
+&nbsp;
+
 ## 6.	Lab Notebooks
 
 - Lab Notebooks are an essential part of science, even for computational scientists! As a lab member, you are required to maintain a laboratory notebook for both wet lab and computational work. 	
@@ -263,6 +273,9 @@ If you are ever in doubt about whether you are using an LLM in a way that is app
 
 - The lab also has a Benchling account where we store protocols - ask for an invitation to join.  
 
+&nbsp;
+&nbsp;
+
 ## 7. Data Management
 
 - You are expected to maintain all data generated in the lab in a responsible, reproducible, and organized manner
@@ -270,6 +283,9 @@ If you are ever in doubt about whether you are using an LLM in a way that is app
 - You are to strive to achieve all aspects of the FAIR Principles https://www.go-fair.org/fair-principles/ in data management
 
 - Data on the SCRATCH partition on the HPC is not backed up. If there is data that should be archived or maintained in a more secure location, external drives are available for use. 
+
+&nbsp;
+&nbsp;
 
 ## 8. Publishing, presenting & posting
 
@@ -280,6 +296,9 @@ If you are ever in doubt about whether you are using an LLM in a way that is app
 - Failure to obtain approval from Dr. LaBella for sharing research in the lab can lead to removal from the lab.
   
 - The reasoning behind this is multifactorial. Sharing unpublished work can lead to competition for publication. This also gives Dr. LaBella the opportunity to provide insights and perspectives that you may have yet to consider. Moreover, it allows for a cohesive message to emerge from the lab. 
+
+&nbsp;
+&nbsp;
 
 ## 9. Conferences
 
@@ -309,8 +328,13 @@ If you are ever in doubt about whether you are using an LLM in a way that is app
 # Additional Resources - Coming soon
 
 The Hidden Academic Curriculum 
+
 Networking 
+
 Starting Collaborations
+
 Finding Funding
+
 Becoming a paper reviewer and reviewing papers
 
+Building a brand
