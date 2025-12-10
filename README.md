@@ -324,6 +324,18 @@ If you are ever in doubt about whether you are using an LLM in a way that is app
 
 ### Expectations for conference attendance
 
+- You will adhere to the University, lab, and conference codes of conduct. Failure to do so may result in removal from the lab.
+
+- You will prepare for the conference in a timely manner. If you consistently fail to meet preparation deadlines and/or this results in missing conference deadlines, you may lose support to attend future conferences.
+
+- You will attend at least 80% of the conference presentations. Social and networking events are optional but highly encouraged.
+  
+- Attendance at plenary talks takes priority over other events or talks.
+  
+- You will report back on what you learned at the conference in a follow-up meeting
+
+&nbsp;
+&nbsp;
 
 # Additional Resources - Coming soon
 
