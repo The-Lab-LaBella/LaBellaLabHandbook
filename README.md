@@ -158,13 +158,21 @@ Our lab and the University must be free of harassment and discrimination. Creati
 
 - All members of the lab are committed to ensuring a safe, welcoming, and accepting environment.
 
-- There is no space for verbal or physical harassment or discrimination on the basis of gender, gender identity or expression, sexual orientation, disability, physical appearance, body size, race, background, religion or membership in any other group. 
+- We will not tolerate inappropriate behaviors in the lab, during lab outings, or during lab-associated events (conferences, travel, or competitions).
 
-- We will not tolerate actions such as stalking, intimidation, threats, unwanted photograph/video recordings, sustained interruption, inappropriate physical contact, or unwelcome sexual attention or touching. 
+#### Inappropriate behaviors are defined as:
+- Exclusion - to block someone's access to resources or opportunities, make someone feel unwelcome, based on their identity or affiliation with a gender, gender identity or expression, sexual orientation, disability, physical appearance, body size, race, background, religion or membership in any other group
+- Belittlement - to treat someone in a condescending manner or with the assumption of incompetence 
+- Discrimination - to make an unjust or prejudicial distinction in the treatment of someone based on their identity or affiliation with a particular group 
+- Bullying / Intimidation - to threaten, frighten, humiliate, or intimidate someone with abusive words or actions 
+- Harassment - to use words or actions that are unwanted, unwelcome, demeaning, degrading, abusive, or offensive, and to persist in such actions despite resistance, protest, or rebuke by the recipient(s) of those actions  
+- Assault - to make unwelcome physical contact with anyone in any manner, including actual bodily harm and any form of unwanted sexual contact; to threaten bodily harm with an apparent present ability to cause harm
+
+### Additional information
 
 - We will respect the chosen pronouns of all members of the community. 
 
-- If you are approached about inappropriate or harassing behavior, you must stop these actions immediately. If your behavior continue,s you will be asked to leave the lab.
+- If you are approached about inappropriate or harassing behavior, you must stop these actions immediately. If your behavior continues, you will be asked to leave the lab.
 
 - **If you are being harassed, see someone else being harassed, or have any other concerns you can come to me, speak with the department chair, or access these university resources here: https://dso.charlotte.edu/advocacy-support/report-incident 
 
