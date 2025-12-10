@@ -1,7 +1,7 @@
 # LaBella Lab Manual 
 ## 1.	Introduction
 
-Welcome to the brand-new **LaBella Lab**! This manual is a living document that is designed to ensure an equitable and productive lab environment. I am always open to suggestions and I will be happy to discuss any aspect of this document with you directly. You are required to read this document, in its entirety, prior to joining the lab. This ensures that you know what to expect from me and know what is expected from you. 
+Welcome to the new-ish **LaBella Lab**! This manual is a living document that is designed to ensure an equitable and productive lab environment. I am always open to suggestions and I will be happy to discuss any aspect of this document with you directly. You are required to read this document, in its entirety, prior to joining the lab. This ensures that you know what to expect from me and know what is expected from you. 
 
 This document has been modeled after the following exceptional examples and will be updated with university resources. Other lab manuals: https://github.com/memobc/memolab-manual http://jpeelle.net/peellelab_manual.pdf https://github.com/alylab/labmanual 
 
