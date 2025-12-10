@@ -246,7 +246,7 @@ However, LLMs **should not be used** to
 
 - Peer review
 
-Cases where LLMs _might_ be appropriate depending on the context
+Cases where LLMs _might_ be appropriate, depending on the context
 
 - Unit conversions. But I _highly_ recommend checking their work
 
@@ -256,32 +256,61 @@ If you are ever in doubt about whether you are using an LLM in a way that is app
 
 ## 6.	Lab Notebooks
 
- Lab Notebooks are an essential part of science, even for computational scientists! As a lab member you are required to maintain a laboratory notebook for both wet lab and computational work. 	
+- Lab Notebooks are an essential part of science, even for computational scientists! As a lab member, you are required to maintain a laboratory notebook for both wet lab and computational work. 	
 
- Computational lab notebooks are new to me, so we will all work together to find a method that works for you and for the lab. 
+- **Computational notebooks** - These can be any form and on any platform of your choosing.
+- **Wetlab notebooks** - These must remain in the lab and document your work precisely. 
+
+- The lab also has a Benchling account where we store protocols - ask for an invitation to join.  
+
+## 7. Data Management
+
+- You are expected to maintain all data generated in the lab in a responsible, reproducible, and organized manner
+
+- You are to strive to achieve all aspects of the FAIR Principles https://www.go-fair.org/fair-principles/ in data management
+
+- Data on the SCRATCH partition on the HPC is not backed up. If there is data that should be archived or maintained in a more secure location, external drives are available for use. 
+
+## 8. Publishing, presenting & posting
+
+- Any research you conduct as a part of the LaBella lab is supported by both Dr. LaBella and funding sources like the NIH. Therefore, any research you present, post online, publish, or share must be approved by Dr. LaBella.
+
+- Publishing, presenting, and posting include scientific conferences, UNC Charlotte resources, social media, personal websites, and more.
+
+- Failure to obtain approval from Dr. LaBella for sharing research in the lab can lead to removal from the lab.
+  
+- The reasoning behind this is multifactorial. Sharing unpublished work can lead to competition for publication. This also gives Dr. LaBella the opportunity to provide insights and perspectives that you may have yet to consider. Moreover, it allows for a cohesive message to emerge from the lab. 
+
+## 9. Conferences
+
+- Attending scientific conferences is an exciting part of participating in research. Below are general guidelines for attending conferences and some additional resources
+
+### Who gets to attend?
+
+- All conference attendance decisions are dependent on the financial situation in the lab, which can change rapidly
+
+- Priority is given to Postdocs, PhD students, and students with independent funding sources.
+  
+- Postdocs and PhD students should aim to attend one conference per academic year.
+  
+
+### How to sign up for a conference
+
+- Dr. LaBella must pre-approve any conference travel in which you will present lab research or utilize lab funds
+
+- Travel authorizations must be set up as soon as possible through our financial administrators.
+
+- When possible, all purchases must be made on the department purchasing card through a financial administrator.
+  
+
+### Expectations for conference attendance
 
 
-### 7. Conferences 101 
+# Additional Resources - Coming soon
 
-Scientific conferences are incredible opportunities to network, share your results, and get feedback from peers. 
-
-Graduate students are typically supported and encouraged to attend one scientific meeting each year. Attendance at additional conferences for graduate students or undergraduate students will be supported if funding is available 
-
-_Still under construction_
-
-## 7. Data Management Expectations
-
-## 8. The Hidden Academic Curriculum
-
-There are many aspects of academia that are typically learned through experience and not typically written down or taught. Below I've listed some topics that belong to this hidden curriculum. They will include some personal advice from me on these topics. Additionally, if you have questions about these topics _do not_ hesistate to ask me or any of your other mentors. 
-
-### Networking 
-
-
-### Starting Collaborations
-
-
-### Finding Funding
-
-### Becoming a paper reviewer and reviewing papers
+The Hidden Academic Curriculum 
+Networking 
+Starting Collaborations
+Finding Funding
+Becoming a paper reviewer and reviewing papers
 
