@@ -334,6 +334,10 @@ If you are ever in doubt about whether you are using an LLM in a way that is app
   
 - You will report back on what you learned at the conference in a follow-up meeting
 
+### More info
+
+If this is your first conference, check out these guidelines! https://docs.google.com/document/d/1CdSwFLwTSu0tp3lE9Dn9F9daJA4l8ysW2xx-UhOAmh8/edit?usp=sharing 
+
 &nbsp;
 &nbsp;
 
